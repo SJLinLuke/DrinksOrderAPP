@@ -9,7 +9,7 @@ import Foundation
 import UIKit
 
 //My API Key
-public let apikey = "keye2jJ2wDQ2630Bb"
+public let apikey = ""
 
 class MenuBodyController {
     
