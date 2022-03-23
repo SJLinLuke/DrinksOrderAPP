@@ -9,7 +9,7 @@ import Foundation
 
 class OrderController {
     
-    var apikey = "keye2jJ2wDQ2630Bb"
+    var apikey = ""
     
     static let shared = OrderController()
     
